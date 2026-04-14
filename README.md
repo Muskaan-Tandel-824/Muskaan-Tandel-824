@@ -78,12 +78,12 @@ status: 🔍 Actively looking for Cloud / DevOps opportunities
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Muskaan-Tandel-824&show_icons=true&theme=dark&title_color=FF6B35&icon_color=FF6B35&border_color=FF6B35&bg_color=0d1117" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muskaan-Tandel-824&layout=compact&theme=dark&title_color=FF6B35&border_color=FF6B35&bg_color=0d1117" height="170" />
+  <img src="https://github-readme-stats-git-masterorgs-github-readme-stats-orgs.vercel.app/api?username=Muskaan-Tandel-824&show_icons=true&theme=dark&title_color=FF6B35&icon_color=FF6B35&border_color=FF6B35&bg_color=0d1117" height="170" />
+  <img src="https://github-readme-stats-git-masterorgs-github-readme-stats-orgs.vercel.app/api/top-langs/?username=Muskaan-Tandel-824&layout=compact&theme=dark&title_color=FF6B35&border_color=FF6B35&bg_color=0d1117" height="170" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Muskaan-Tandel-824&theme=dark&ring=FF6B35&fire=FF6B35&currStreakLabel=FF6B35&border=FF6B35" />
+  <img src="https://streak-stats.demolab.com/?user=Muskaan-Tandel-824&theme=dark&ring=FF6B35&fire=FF6B35&currStreakLabel=FF6B35&border=FF6B35" />
 </p>
 
 ---
