@@ -94,8 +94,8 @@ status: 🔍 Actively looking for Cloud / DevOps opportunities
 Automated EC2 Web App Deployment using Terraform & Jenkins
 > `AWS` `Terraform` `Bash` `IaC`
 
-### 🐧 [Linux System Administration Scripts](#)
-> Collection of shell scripts for system monitoring, user management, log analysis & cron automation
+### 🐧 [ nagios-server-monitoring](#)
+Monitor CPU usage of an EC2 server using Nagios Core.
 > `Linux` `Shell Scripting` `Bash` `Automation`
 
 ### 🌐 [Cloud Network Setup](#)
