@@ -102,8 +102,8 @@ Monitor CPU usage of an EC2 server using Nagios Core.
 This project is all about Infrastructure Automation using Terraform with Remote Backend & State Locking.
 > `AWS` `VPC` `Networking` `Security`
 
-### 🐍 [Python Automation Toolkit](#)
-> Python scripts for cloud resource management and automating repetitive DevOps tasks
+### 🐍 [ Automated-Backup-Monitoring](#)
+This project automates server backups and monitors disk usage to prevent data loss and disk overflow
 > `Python` `AWS Boto3` `Automation`
 
 ---
