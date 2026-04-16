@@ -91,7 +91,7 @@ status: 🔍 Actively looking for Cloud / DevOps opportunities
 ## 🚀 Featured Projects
 
 ### 🌩️ [AWS Infrastructure Automation](#)
-> Automated EC2 deployment and S3 bucket management using **Terraform (HCL)** and **Bash scripts**
+Automated EC2 Web App Deployment using Terraform & Jenkins
 > `AWS` `Terraform` `Bash` `IaC`
 
 ### 🐧 [Linux System Administration Scripts](#)
