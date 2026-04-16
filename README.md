@@ -98,8 +98,8 @@ Automated EC2 Web App Deployment using Terraform & Jenkins
 Monitor CPU usage of an EC2 server using Nagios Core.
 > `Linux` `Shell Scripting` `Bash` `Automation`
 
-### 🌐 [Cloud Network Setup](#)
-> Configured **AWS VPC** with public/private subnets, security groups, NAT gateway & routing tables
+### 🌐 [ StateGuard-AWS-Infrastructure](#)
+This project is all about Infrastructure Automation using Terraform with Remote Backend & State Locking.
 > `AWS` `VPC` `Networking` `Security`
 
 ### 🐍 [Python Automation Toolkit](#)
