@@ -15,7 +15,7 @@
 ```yaml
 name: Muskaan Tandel
 location: Pune, India 📍
-education: B.E. Computer Science — Final Year
+education: B.E. Computer Science Graduate
 focus: Cloud Computing | DevOps | Networking | Linux
 status: 🔍 Actively looking for Cloud / DevOps opportunities
 ```
